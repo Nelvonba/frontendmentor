@@ -41,7 +41,7 @@ html {
   top: 0;
   overflow: hidden;
 }
-.backqr img {
+img {
   display: flex;
   justify-content: center;
 
